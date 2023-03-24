@@ -2,7 +2,7 @@ body{
     background-color:rgb(51, 124, 124);
     font-family: 'Lucida Sans';
     font-size: small;
-    color: #5b428a;
+    color: #ffffff;
     text-align: center;
     display: inline;
     font-size: 14px;
@@ -10,7 +10,7 @@ body{
     h3{
     font-family: 'Lucida Sans';
     font-size: small;
-    color: #315e54;
+    color: #28977f;
     text-align: center;
     display: inline;
     font-size: 14px;
@@ -29,5 +29,5 @@ body{
     color:rgb(0, 0, 0);
     }
     .itens {
-    background-color: rgb(100, 59, 59);
+    background-color: rgb(104, 105, 180);
     }

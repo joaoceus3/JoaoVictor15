@@ -31,3 +31,13 @@ body{
     .itens {
     background-color: rgb(104, 105, 180);
     }
+    .apre{
+        
+    }
+    .img3{
+        position: absolute;
+width: 233px;
+height: 330px;
+left: 1147px;
+top: 20px;
+    }

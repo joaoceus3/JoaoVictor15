@@ -11,7 +11,7 @@ top: 20px;
     }
     .fundo1{
         position: absolute;
-        width: 1440px;
+        width: 100%;
         height: 512px;
         left: 0px;
         top: 0px;
@@ -24,11 +24,12 @@ top: 20px;
         position: absolute;
     width: 100%;
     height: 512px;
-    left: 0px;
+    
     top: 400px;
     
     background: linear-gradient(180deg, #14A69D 0%, #D4CDFF 99.99%, rgba(20, 166, 157, 0) 100%);
     transform: matrix(1, 0, 0, -1, 0, 0);
+
     .retangulo3{
         position: absolute;
 width: 1179px;
@@ -58,8 +59,10 @@ background-blend-mode: color-burn;
         top: 459px;
         
         background: url(dsc_0826.jpg);}
+        
         .elipse3
-        {position: absolute;
+        {
+            position: absolute;
             width: 237px;
             height: 237px;
             left: 971px;

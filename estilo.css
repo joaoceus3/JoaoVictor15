@@ -1,7 +1,7 @@
 
-    .apre{
+    /* .apre{
         
-    }
+    } */
     .img3{
         position: absolute;
 width: 233px;
@@ -46,18 +46,50 @@ background-blend-mode: color-burn;
         left: 197px;
         top: 459px;
         
-        background: url(Homepage_World_1.jpg);}
-    .elipse1{position: absolute;
+        background: url(Homepage_World_1.jpg);
+    }
+
+    .elipse1{
+        position: absolute;
         width: 237px;
         height: 237px;
         left: 584px;
         top: 459px;
         
         background: url(dsc_0826.jpg);}
-        .elipse3{position: absolute;
+        .elipse3
+        {position: absolute;
             width: 237px;
             height: 237px;
             left: 971px;
             top: 459px;
             
-            background: url(MV5BN2E2OTgzODktMjBhYy00MjJjLWI0OTgtNGYxOGNhMWMxOWE4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg);}
+            background: url(MV5BN2E2OTgzODktMjBhYy00MjJjLWI0OTgtNGYxOGNhMWMxOWE4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg);
+        }
+
+.elipse4{
+    width: 237px;
+height: 237px;
+background: url(Vôlei.jpg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

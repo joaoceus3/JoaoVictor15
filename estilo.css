@@ -1,98 +1,58 @@
+background: linear-gradient(180deg, #00E1E1 56.77%, #FFADF7 67.19%, #76D8D2 100%);
 
-    /* .apre{
-        
-    } */
-    .img3{
-        position: absolute;
-width: 233px;
-height: 330px;
-left: 1147px;
-top: 20px;
-    }
-    .fundo1{
-        position: absolute;
-        width: 100%;
-        height: 512px;
-        left: 0px;
-        top: 0px;
-        
-        background: linear-gradient(180deg, #14A69D 0%, #D4CDFF 99.99%, rgba(20, 166, 157, 0) 100%);
+.sushi{
+border-radius: 50%;
 
-    }
-    .fundo2{
-
-        position: absolute;
-    width: 100%;
-    height: 512px;
-    
-    top: 400px;
-    
-    background: linear-gradient(180deg, #14A69D 0%, #D4CDFF 99.99%, rgba(20, 166, 157, 0) 100%);
-    transform: matrix(1, 0, 0, -1, 0, 0);
-
-    .retangulo3{
-        position: absolute;
-width: 1179px;
-height: 243px;
-left: 166px;
-top: 581px;
-
-background: #D9D9D9;
-background-blend-mode: color-burn;
-    }
-
-    .elipse2{
-        position: absolute;
-        width: 237px;
-        height: 237px;
-        left: 197px;
-        top: 459px;
-        
-        background: url(Homepage_World_1.jpg);
-    }
-
-    .elipse1{
-        position: absolute;
-        width: 237px;
-        height: 237px;
-        left: 584px;
-        top: 459px;
-        
-        background: url(dsc_0826.jpg);}
-        
-        .elipse3
-        {
-            position: absolute;
-            width: 237px;
-            height: 237px;
-            left: 971px;
-            top: 459px;
-            
-            background: url(MV5BN2E2OTgzODktMjBhYy00MjJjLWI0OTgtNGYxOGNhMWMxOWE4XkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg);
-        }
-
-.elipse4{
-    width: 237px;
+position: absolute;
+width: 237px;
 height: 237px;
-background: url(Vôlei.jpg);
-}
+left: 584px;
+top: 459px;}
 
-.elipse5{
+.avatar{
+    border-radius: 50%;
+    position: absolute;
     width: 237px;
+    height: 237px;
+    left: 771px;
+    top: 696px;}
+
+.bio{
+border-radius: 50%;
+position: absolute;
+width: 237px;
 height: 237px;
-background: url(Avatar-1.jpg);
+left: 385px;
+top: 696px;
 }
+.lol{
+    border-radius: 50%;
 
-.elipse6{
-    width: 237px;
+position: absolute;
+width: 237px;
 height: 237px;
+left: 197px;
+top: 459px;
 
-background: url(matriz-de-bordado-biologia-01.jpg);
 }
+.tokyo-ghoul-tvjpg-c73264{
+    border-radius: 50%;
+    position: absolute;
+width: 237px;
+height: 237px;
+left: 971px;
+top: 459px;
 
+}
+ .Vôlei{
+    border-radius: 50%;
+    position: absolute;
+width: 237px;
+height: 237px;
+left: 1135px;
+top: 696px;
 
-
-
+ }
 
 
 

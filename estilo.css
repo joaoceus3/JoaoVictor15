@@ -1,4 +1,61 @@
 background: linear-gradient(180deg, #00E1E1 56.77%, #FFADF7 67.19%, #76D8D2 100%);
+}
+.apre{
+
+position: absolute;
+width: 834px;
+height: 201px;
+left: 333px;
+bottom: 783px;
+
+font-family: 'Gidugu';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 67px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+.personagem{
+    position: absolute;
+width: 233px;
+height: 330px;
+left: 1177px;
+top: 29px;
+
+}
+
+
+.favoritos{
+
+    position: absolute;
+    width: 1179px;
+    height: 705px;
+    left: 166px;
+    top: 350px;
+    
+    font-family: 'Gidugu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 380px;
+    line-height: 705px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    background: linear-gradient(180deg, #AD00FF 39.57%, #0500FF 39.58%, rgba(255, 255, 255, 0.734229) 51.56%, rgba(0, 255, 194, 0.42) 73.96%, rgba(0, 0, 0, 0) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+
+}
+
+
+
+
 
 .sushi{
 border-radius: 50%;

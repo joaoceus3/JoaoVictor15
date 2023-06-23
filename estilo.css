@@ -1,4 +1,5 @@
-background: linear-gradient(180deg, #00E1E1 56.77%, #FFADF7 67.19%, #76D8D2 100%);
+body{
+    background: linear-gradient(180deg, #00E1E1 56.77%, #FFADF7 67.19%, #76D8D2 100%);
 }
 .apre{
 

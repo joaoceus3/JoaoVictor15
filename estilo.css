@@ -1,118 +1,37 @@
-body{
-    background: linear-gradient(180deg, #00E1E1 56.77%, #FFADF7 67.19%, #76D8D2 100%);
-}
-.apre{
+corpo{
 
-position: absolute;
-width: 834px;
-height: 201px;
-left: 333px;
-bottom: 783px;
+    display: grid;
 
-font-family: 'Gidugu';
-font-style: normal;
-font-weight: 400;
-font-size: 36px;
-line-height: 67px;
-text-align: center;
-
-color: #FFFFFF;
-}
-
-.personagem{
-    position: absolute;
-width: 233px;
-height: 330px;
-left: 1177px;
-top: 29px;
-
-}
-
-
-.favoritos{
-
-    position: absolute;
-    width: 1179px;
-    height: 705px;
-    left: 166px;
-    top: 350px;
-    
-    font-family: 'Gidugu';
-    font-style: normal;
-    font-weight: 400;
-    font-size: 380px;
-    line-height: 705px;
-    /* identical to box height */
-    
     text-align: center;
-    
-    background: linear-gradient(180deg, #AD00FF 39.57%, #0500FF 39.58%, rgba(255, 255, 255, 0.734229) 51.56%, rgba(0, 255, 194, 0.42) 73.96%, rgba(0, 0, 0, 0) 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    text-fill-color: transparent;
 
-}
+    grid-template-columns: 30% 30% 30%;
 
-
-
-
-
-.sushi{
-border-radius: 50%;
-
-position: absolute;
-width: 237px;
-height: 237px;
-left: 584px;
-top: 459px;}
-
-.avatar{
-    border-radius: 50%;
     position: absolute;
-    width: 237px;
-    height: 237px;
-    left: 771px;
-    top: 696px;}
 
-.bio{
-border-radius: 50%;
-position: absolute;
-width: 237px;
-height: 237px;
-left: 385px;
-top: 696px;
-}
-.lol{
-    border-radius: 50%;
+   
 
-position: absolute;
-width: 237px;
-height: 237px;
-left: 197px;
-top: 459px;
+    width: 1440px;
+
+    height: 640px;
+
+    flex-shrink: 0;
+
+    background: linear-gradient(180deg, #1ce4eb 0%, rgba(4, 255, 79, 0) 100%);
 
 }
-.tokyo-ghoul-tvjpg-c73264{
-    border-radius: 50%;
-    position: absolute;
-width: 237px;
-height: 237px;
-left: 971px;
-top: 459px;
+
+.corpo-itens{
+
+ 
+
+    text-align: center;
+
+    padding: 16px 0;
 
 }
- .Vôlei{
-    border-radius: 50%;
-    position: absolute;
-width: 237px;
-height: 237px;
-left: 1135px;
-top: 696px;
 
- }
+.corpo-itens-img{
 
+    width: 280px;
 
-
-
-
+}

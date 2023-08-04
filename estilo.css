@@ -1,4 +1,18 @@
-corpo{
+body{
+    width: 1440px;
+    height: 1055px;   
+    background: linear-gradient(180deg, #00E1E1 56.77%, #FFADF7 67.19%, #76D8D2 100%);
+}
+
+.apre{
+
+    width: 100%;
+    height: 300px;
+    flex-shrink: 0;
+
+
+} 
+.corpo{
 
     display: grid;
 
@@ -10,14 +24,12 @@ corpo{
 
    
 
-    width: 1440px;
+    width: 100%;
 
     height: 640px;
 
     flex-shrink: 0;
-
-    background: linear-gradient(180deg, #1ce4eb 0%, rgba(4, 255, 79, 0) 100%);
-
+   
 }
 
 .corpo-itens{

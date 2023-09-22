@@ -172,15 +172,21 @@
   top: 29px;
 }
 
-.Inicio{
 
-font-size: 70px;
+.botao{
+width: 200px;
 
 
-position: absolute;
-left: 100px;
-top: 330px;
+  position: absolute;
+  left: 100px;
+  top: 33px;
+
+
 }
+
+
+
+
 
 
 

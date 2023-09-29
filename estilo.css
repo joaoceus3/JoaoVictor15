@@ -4,14 +4,12 @@
 
 
 
-.desktop-1,
-.desktop-1 * {
-  box-sizing: border-box;
-}
+
 .desktop-1 {
-  background: #ffffff;
-  width: 1440px;
-  height: 1055px;
+  background: #020202;
+  border:0px;
+  width: 1900px;
+  height: 900px;
   position: relative;
   overflow: hidden;
 }
@@ -25,13 +23,13 @@
   border-style: solid;
   border-color: #000000;
   border-width: 1px;
-  width: 1440px;
-  height: 1055px;
+  width: 100%;
+  height: 100%;
   position: absolute;
   left: 0px;
   top: 0px;
-}
 
+}
 .ellipse-1 {
   border-radius: 50%;
   width: 237px;
@@ -45,8 +43,8 @@
   width: 237px;
   height: 237px;
   position: absolute;
-  left: 971px;
-  top: 459px;
+  left: 1290px;
+top: 700px;
 }
 .ellipse-2 {
   border-radius: 50%;
@@ -69,8 +67,8 @@
   width: 237px;
   height: 237px;
   position: absolute;
-  left: 1135px;
-  top: 696px;
+  left: 1290px;
+  top: 700px;
 }
 .ellipse-5 {
   border-radius: 50%;
@@ -97,9 +95,9 @@
 
   text-align: center;
   font: 400 210px "Gidugu", sans-serif;  position: absolute;
-  left: 166px;
-  top: 570px;
-  width: 1179px;
+  left: 175px;
+top: 572px;
+width: 1600px;
 }
 .comida {
   color: #000000;
@@ -164,13 +162,7 @@
   bottom: 783px;
   width: 834px;
 }
-.unnamed-1 {
-  width: 233px;
-  height: 330px;
-  position: absolute;
-  left: 1177px;
-  top: 29px;
-}
+
 
 
 .botao{
@@ -193,9 +185,10 @@ width: 200px;
 
 body{
  
- max-width: 1200px ;
-
-margin: auto;
+ max-width:100% ;
+ height: 100%;
+margin: 0px;
+position: absolute;
 
 border: 10px;
 

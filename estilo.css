@@ -35,48 +35,48 @@
   width: 237px;
   height: 237px;
   position: absolute;
-  left: 584px;
-  top: 459px;
+  left: 745px;
+  top: 280px;
 }
 .ellipse-3 {
   border-radius: 50%;
   width: 237px;
   height: 237px;
   position: absolute;
-  left: 1290px;
-top: 700px;
+  left: 1175px;
+  top: 280px;
 }
 .ellipse-2 {
   border-radius: 50%;
   width: 237px;
   height: 237px;
   position: absolute;
-  left: 197px;
-  top: 459px;
+  left: 350px;
+  top: 280px;
 }
 .ellipse-6 {
   border-radius: 50%;
   width: 237px;
   height: 237px;
   position: absolute;
-  left: 385px;
-  top: 696px;
+  left: 527px;
+  top: 645px;
 }
 .ellipse-4 {
   border-radius: 50%;
   width: 237px;
   height: 237px;
   position: absolute;
-  left: 1290px;
-  top: 700px;
+  left: 1450px;
+  top: 645px;
 }
 .ellipse-5 {
   border-radius: 50%;
   width: 237px;
   height: 237px;
   position: absolute;
-  left: 771px;
-  top: 696px;
+  left: 957px;
+  top: 645px;
 }
 .favoritos {
   color: linear-gradient(
@@ -94,10 +94,11 @@ top: 700px;
   -webkit-text-fill-color: transparent;
 
   text-align: center;
-  font: 400 210px "Gidugu", sans-serif;  position: absolute;
+  font: 400 210px "Gidugu", sans-serif; 
+  position: absolute;
   left: 175px;
-top: 572px;
-width: 1600px;
+  top: 470px;
+  width: 1694px;
 }
 .comida {
   color: #000000;
@@ -120,8 +121,8 @@ width: 1600px;
   text-align: right;
   font: 400 48px "Gidugu", sans-serif;
   position: absolute;
-  left: 1160px;
-  top: 932px;
+  left: 1066px;
+  top: 307px;
 }
 .mat-ria {
   color: #000000;
@@ -148,21 +149,19 @@ width: 1600px;
   text-align: right;
   font: 400 48px "Gidugu", sans-serif;
   position: absolute;
-  left: 927px;
-  top: 407px;
-  width: 208px;
-  height: 57px;
+  left: 1166px;
+  top: 250px;
 }
+
 .ol-meu-nome-jo-o-victor-moro-em-goioere-tenho-5-gatos-em-casa-adoro-plantas-estudo-no-meu-cl-gio-desdo-9-ano-sendo-agora-estando-no-2-ano-do-novo-ensino-m-dio {
   color: #ffffff;
   text-align: center;
   font: 400 36px "Gidugu", sans-serif;
   position: absolute;
   left: 333px;
-  bottom: 783px;
-  width: 834px;
+  bottom: 700px;
+width: 960px;
 }
-
 
 
 .botao{
@@ -210,53 +209,3 @@ border-radius: 20px;
  
  
  
- 
- /*body{
-    width: 1440px;
-    height: 1055px;   
-    background: linear-gradient(180deg, #00E1E1 56.77%, #FFADF7 67.19%, #76D8D2 100%);
-}
-
-.apre{
-
-    width: 100%;
-    height: 300px;
-    flex-shrink: 0;
-
-
-} 
-.corpo{
-
-    display: grid;
-
-    text-align: center;
-
-    grid-template-columns: 30% 30% 30%;
-
-    position: absolute;
-
-   
-
-    width: 100%;
-
-    height: 640px;
-
-    flex-shrink: 0;
-   
-}
-
-.corpo-itens{
-
- 
-
-    text-align: center;
-
-    padding: 16px 0;
-
-}
-
-.corpo-itens-img{
-
-    width: 280px;
-
-}*/
